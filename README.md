@@ -4,7 +4,7 @@
 
 
 ##### 鉴于服务器频繁被封，请网友扫描二维码，免翻墙浏览全球精粹资源 - 头条、影视、音乐、书刊、直播
-<img src="http://gfw-breaker.win/videos/ogate.jpg" width="400px" height="240px"/>
+<img src="http://gfw-breaker.win/videos/imgs/ogate.jpg" width="400px" height="240px"/>
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
