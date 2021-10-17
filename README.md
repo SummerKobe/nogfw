@@ -20,7 +20,6 @@
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
-##### [使用Shadowsocks翻墙](https://github.com/gfw-breaker/guides/wiki)，请先下载安装 [Windows客户端](http://192.248.146.163:10000/videos/sw/Shadowsocks-4.1.6.zip?raw=true)、[安卓客户端](http://192.248.146.163:10000/videos/sw/shadowsocks--universal-4.7.4.apk?raw=true) 或 [Mac客户端](http://192.248.146.163:10000/videos/sw/ShadowsocksX-NG.app.1.8.2.zip?raw=true)，再前往 [ssr-accounts](https://github.com/gfw-breaker/ssr-accounts) 获取免费账号
 
 -----
 #### 更新公告
