@@ -14,8 +14,6 @@
 
 ##### <a href="http://78.141.195.254:10000/videos/sw/u2132.exe" targe="_blank">无界PC版21.32</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/um.apk" targe="_blank">无界安卓版5.0</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/u2126" targe="_blank">无界Linux版21.26</a>
 
-##### 网门免翻墙： <a href="http://78.141.195.254:10000/videos/sw/oGate.apk" target="_blank">安卓手机版</a>  &nbsp;  &nbsp; <a href="https://testflight.apple.com/join/x1bytm91" target="_blank">苹果手机版</a>&nbsp;  &nbsp; <a href="https://cdn.jsdelivr.net/gh/opipe/up/oGate.zip" target="_blank">Windows电脑版</a>
-
 ##### <a href="http://78.141.195.254:10000/videos/sw/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
