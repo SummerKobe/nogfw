@@ -4,12 +4,7 @@
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
-
-##### <a href="http://78.141.195.254:10000/videos/sw/fg797p.zip" targe="_blank">自由门PC版7.97版</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/fgvpn.apk" targe="_blank">安卓自由门VPN 1.3</a>
-
-##### <a href="http://78.141.195.254:10000/videos/sw/u2132.exe" targe="_blank">无界PC版21.32</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/um.apk" targe="_blank">无界安卓版5.0</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/u2126" targe="_blank">无界Linux版21.26</a>
-
-##### <a href="http://78.141.195.254:10000/videos/sw/oHopea.apk" targe="_blank">希望之声安卓版免翻墙APP</a>
+##### <a href="http://45.32.176.82:10000/bbooks/00.翻墙软件/1.自由门/" targe="_blank">自由门 </a> &nbsp;|&nbsp; <a href="http://45.32.176.82:10000/bbooks/00.翻墙软件/2.无界" targe="_blank">无界</a> （最新版本无法正常连接，请尝试使用旧版本）
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
