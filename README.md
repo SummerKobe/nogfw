@@ -4,7 +4,6 @@
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
-##### [安卓 HelloWorld 免翻墙](https://github.com/gfw-breaker/HelloWorld/blob/master/README.md)
 
 ##### <a href="http://78.141.195.254:10000/videos/sw/fg797p.zip" targe="_blank">自由门PC版7.97版</a> &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/fgma50.apk" targe="_blank">安卓版 5.0</a>  &nbsp;  &nbsp; <a href="http://78.141.195.254:10000/videos/sw/fgvpn.apk" targe="_blank">安卓自由门VPN 1.3</a>
 
