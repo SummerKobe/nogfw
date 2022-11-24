@@ -4,7 +4,7 @@
 
 ##### 如果您实在不信任我提供的软件， 可以通过 [禁闻聚合](https://github.com/gfw-breaker/banned-news3/blob/master/README.md) 免翻墙直接看禁闻
 
-##### <a href="http://45.32.176.82:10000/bbooks/00.翻墙软件/1.自由门/" targe="_blank">自由门 </a> &nbsp;|&nbsp; <a href="http://45.32.176.82:10000/bbooks/00.翻墙软件/2.无界" targe="_blank">无界</a> （最新版本无法正常连接，请尝试使用旧版本）
+##### <a href="http://45.76.133.126:10000/bbooks/00.翻墙软件/1.自由门/" targe="_blank">自由门 </a> &nbsp;|&nbsp; <a href="http://45.76.133.126:10000/bbooks/00.翻墙软件/2.无界" targe="_blank">无界</a> （最新版本无法正常连接，请尝试使用旧版本）
 
 ##### 若您不知道如何使用，请参考 [手把手翻墙教程](https://github.com/gfw-breaker/guides/wiki)
 
